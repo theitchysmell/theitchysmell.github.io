@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarot Glossary</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="glossary.js" defer></script>
+</head>
+<body>
+<header class="site-header">
+  <h1 class="site-title">Tarot Glossary</h1>
+  <nav>
+    <a href="index.html">← Back to Readings</a>
+  </nav>
+</header>
+
+<main class="site-main">
+  <section class="glossary-section">
+    <h2 class="glossary-title">Explore the Full Tarot Deck</h2>
+    <label for="cardSearch"></label>
+    <input type="text" id="cardSearch" placeholder="🔎 Search by name..." />
+
+    <div id="cardGrid" class="card-grid"></div>
+  </section>
+</main>
+
+<!-- Modal -->
+<div id="modalOverlay" class="modal-overlay hidden">
+  <div class="modal">
+    <span id="closeModal" class="close-button">&times;</span>
+    <div id="modalContent" class="modal-content"></div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <p><a href="index.html">Home</a> | <a href="glossary.html">Glossary</a></p>
+  <p>Michael Lind</p>
+  <p>&copy; 2025 Tarot Mystic. All rights reserved.</p>
+</footer>
+</body>
+</html>

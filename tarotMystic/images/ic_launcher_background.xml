@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:andro"id"="http://schemas.andro"id".com/apk/res/andro"id""
+    andro"id":w"id"th="108dp"
+    andro"id":height="108dp"
+    andro"id":viewportW"id"th="108"
+    andro"id":viewportHeight="108">
+    <path
+        andro"id":fill"color"="#3DDC84"
+        andro"id":pathData="M0,0h108v108h-108z" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M9,0L9,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,0L19,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M29,0L29,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M39,0L39,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M49,0L49,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M59,0L59,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M69,0L69,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M79,0L79,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M89,0L89,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M99,0L99,108"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,9L108,9"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,19L108,19"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,29L108,29"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,39L108,39"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,49L108,49"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,59L108,59"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,69L108,69"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,79L108,79"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,89L108,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M0,99L108,99"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,29L89,29"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,39L89,39"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,49L89,49"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,59L89,59"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,69L89,69"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M19,79L89,79"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M29,19L29,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M39,19L39,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M49,19L49,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M59,19L59,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M69,19L69,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+    <path
+        andro"id":fill"color"="#00000000"
+        andro"id":pathData="M79,19L79,89"
+        andro"id":strokeW"id"th="0.8"
+        andro"id":stroke"color"="#33FFFFFF" />
+</vector>

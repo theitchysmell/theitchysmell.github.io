@@ -1,0 +1,109 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarot Mystic</title>
+  <meta name="description" content="Tarot Mystic - Your personal tarot card reading assistant.">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title">Tarot Mystic</h1>
+    <p class="site-subtitle">Your personal tarot card reading assistant</p>
+    <nav class="main-nav">
+      <a href="glossary.html">Explore the Tarot Deck</a>
+    </nav>
+  </div>
+</header>
+
+<main class="site-main">
+  <!-- Intro Section -->
+  <section id="intro" class="intro-section">
+    <div class="intro-box">
+      <h2>🔮 Welcome to <span class="highlight">Tarot Mystic</span></h2>
+      <p>Step into the mystical realm of tarot. Our digital deck helps you connect to your inner wisdom, receive insights from the universe, and reflect deeply on your path.</p>
+      <p>Draw cards, explore meanings, and find clarity in love, life, and purpose.</p>
+      <p>Ready to reveal what the cards hold for you?</p>
+    </div>
+  </section>
+
+  <!-- Reading Form -->
+  <section id="form-section" class="form-section">
+    <h2>💭 Tell Me About Your Question</h2>
+    <p class="form-intro">Enter your details below to begin your personalized tarot reading.</p>
+
+    <div class="form-row">
+      <!-- Left image column -->
+      <div class="form-column">
+        <img src="images/deck-spread.png" alt="Mystical tarot deck" class="form-image" />
+      </div>
+
+      <!-- Form center column -->
+      <div class="form-column form-center">
+        <form id="tarot-form">
+          <div class="form-group">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" placeholder="Type your name..." required />
+          </div>
+
+          <div class="form-group">
+            <label for="question">Your Question:</label>
+            <input type="text" id="question" name="question" placeholder="What do you want to know?" required />
+          </div>
+
+          <div class="form-group">
+            <label>Select a Spread:</label>
+            <div class="radio-group">
+              <label><input type="radio" name="card-count" value="1" checked /> Your Message 🃏</label>
+              <label><input type="radio" name="card-count" value="3" /> Past / Present / Future</label>
+              <label><input type="radio" name="card-count" value="5" /> Full 5-Card Spread</label>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="focus">Would you like to save your reading?</label>
+            <select id="focus" name="focus" required>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
+            </select>
+          </div>
+
+          <div class="form-buttons">
+            <button type="submit">🔮 Get Your Reading</button>
+            <button type="reset">Clear Form</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Right image column -->
+      <div class="form-column">
+        <img src="images/crystal-orb.png" alt="Crystal orb glowing" class="form-image" />
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- Reading Results -->
+  <section id="result-section" class="result-section">
+    <h2 class="result-title">Your Reading Results:</h2>
+    <p class="flip-reminder">🔍 Flip all cards to reveal the full interpretation summary.</p>
+    <div class="reading-frame">
+      <div id="result" class="result-area"></div>
+  </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p><a href="index.html">Home</a> | <a href="glossary.html">Glossary</a></p>
+  <p>Michael Lind</p>
+  <p>&copy; 2025 Tarot Mystic. All rights reserved.</p>
+</footer>
+</body>
+</html>
